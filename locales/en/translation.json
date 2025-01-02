@@ -1,0 +1,343 @@
+{
+    "logo": "ongez",
+    "Company": "Company",
+    "emirates": "Emirates",
+    "home": "Home",
+    "title": "Chartered Accountant and Certified Tax Agent",
+    "subtitle": "We Provide all the sevices related to accounts like VAT filings, bookkeeping services, financial audit services corporate tax services",
+    "uaepass": "Sign in with UAE PASS",
+    "uaeholder": "Emirates ID, email or phone eg. 971500000000",
+    "signin": "Sign In",
+    "signintoacc": "Sign In to Your Account",
+    "donthave": "Don't Have an Account?",
+    "wrong": "Something went wrong. Please try again.",
+    "or": "Or",
+    "createacc": "Create a new account",
+    "signup": "Sign Up",
+    "alreadyhave": "Already have an account?",
+    "logout": "Log out",
+    "email": "Email Address",
+    "email_place": "Enter your email address",
+    "pass": "Password",
+    "pass_place": "Enter your password",
+    "start": "Start",
+    "cancel": "Cancel",
+    "close": "Close",
+    "submit": "Submit",
+    "services": "Services",
+    "required_docs": "Required Documents",
+    "term_of_services": "Term of Services",
+    "cost": "Cost",
+    "steps": "Steps",
+    "notes": "Notes",
+    "nonotes": "no notes",
+    "fullname": "Full Name",
+    "mobile": "Mobile Number",
+    "aed": "AED",
+    "fee": "Fee Summary",
+    "review": "Please review the fee summary below before proceeding wih your application. These dees are calculated based on your current choices.",
+    "total": "Total Amount",
+    "verify": "Verify the applicant's contact information",
+    "upload": "Upload Required Documents",
+    "drop": "Drop files to Attach, or",
+    "browse": "browse",
+    "supfiles": "Supported formats: pdf, doc, jpg, png",
+    "certify": "I certify that I have read and accept the Terms of Use and Privacy Statement.",
+    "max": "Max file size: 1.91MB",
+    "revenue": "Annual Revenue of the Company",
+    "details": "Request Details",
+    "fill": "Please fill all required fields",
+    "statement": "Statement",
+    "price": "Price",
+    "remove": "Remove file",
+    "rev1": "Annual revenue must be at least AED 187,500.",
+    "rev2": "Annual revenue must be between AED 375,000 and 1,000,000.",
+    "rev3": "The total value for the last 12 months should be less than AED 187,500.",
+    "signed": "stamped and signed by the company manager",
+    "history": "History",
+    "manage_serv": "Track Your Services",
+    "manage_users": "Manage Users",
+
+    "soon": "Coming Soon",
+    "welcome": "Welcome to Mongez",
+    "blog": "Blog",
+    "sup": "Support",
+    
+    "sernote": "The following documents must be submitted during the application",
+    "vatfee": "VAT Registration Fees",
+    "vatterm": "Generating revenue for the company or organization of no less than AED 187,500 annually.",
+    "corpfee": "Corporate Tax Registration Fees",
+    "setfee": "Settlement of Tax Penalties Fees",
+    "setnote": "A letter of guarantee or a guarantee check worth 20% is prepared and presented before the start of the transaction.",
+    "setterm": "Submit a letter explaining in detail the reasons that led to the imposition of the fine.",
+    "taxfee": "Tax Number Cancellation Fees",
+    "taxterm": "A letter explaining the reason for canceling the tax number",
+    "taxterm1": "The first case: The total value of the returns submitted for the last 12 months is less than 187,500.",
+    "taxterm2": "Second case: Cancellation of the commercial license",
+    
+    "comp": "To set an appointment, the license holder will be contacted via phone number",
+    "compfee1": "The cost of the legal liquidator to complete all liquidation works",
+    "comp1-1": "In case all partners are present",
+    "comp1-1cost": "AED 2,000",
+
+
+    "compfee2": "Commercial fees",
+    "comp2-1": "Notarization of the liquidation minutes",
+    "comp2-1cost": "AED 650",
+    "comp2-2": "Fees for advertising in the newspaper in the Economic Authority",
+    "comp2-2cost": "AED 770",
+    "comp2-3": "Printing the final stage certificate",
+    "comp2-3cost": "AED 100",
+
+    "compnote1": "The first case: All partners are present with the license. The fee is AED 2,000",
+    "compnote2": "The second case: the absence or non-existence of one of the partners. The fees are determined after studying the case.",
+    "compterm": "A power of attorney from a notary public to carry out liquidation procedures - stating that there are no residencies or violations at work, workers, passports, and cancellation of the establishment card.",
+
+    "subfee": "Submitting One Tax Declaration Fees",
+    "subnote": "The application is submitted and the tax return is printed.",
+    "subterm": "Mobile number - All invoices and accounts for the past 3 months.",
+    "appfee": "Approved Financial Reports for Various Entities Fees",
+    "appcost": "Depends on the revenue AED (1,500 - 10,000)",
+    "appterm": "An authorization letter stating information about the required reports and the entity submitting them.",
+    "homefee": "Home Tax Refund for Citizens Fees",
+    "hometerm": "Building completion certificate.",
+    "courtfee": "Court Announcements Fees",
+    "ecofee": "Economic Department Announcements Fees",
+    "urser": "Your Services",
+    "subdate": "Submission Date",
+    "cerlink": "Certificate Link",
+    "username": "Username",
+    "revstat": "Review Status",
+    "rev": "Reviewed",
+    "unrev": "Under Review",
+    "comphis": "Company Liquidations History",
+    "corphis": "Corporate Tax Registrations History",
+    "vathis": "VAT Registration History",
+    "sethist": "Settlement Tax Penalties History",
+    "taxhist": "Tax Number Cancellations History",
+    "taxdehist": "Tax Declaration Submissions History",
+    "apphist": "Approved Financial Reports for Various Entities History",
+    "homehist": "Home Tax Refunds History",
+    "courthist": "Court Announcements History",
+    "ecohist": "Economic Department Announcements History",
+    "admin": "Add Admin",
+    "open": "open file",
+    "compreq": "Company Liquidation Requests",
+    "corpreq": "Corporate Tax Requests",
+    "vatreq": "VAT Registration Requests",
+    "date": "Date",
+    "stat": "Status",
+    "action": "Action",
+    "reven": "Revenue",
+    "cl1": "License & Articles",
+    "cl2": "Passport & ID",
+    "cl3": "General Assembly Minutes",
+    "cl4": "Power of Attorney",
+    "cl5": "Labor Clearance",
+    "cl6": "Emigration Clearance",
+    "doc1": "Copy of License",
+    "doc2": "Bank Account Details",
+    "doc3": "Copy of Passport",
+    "doc4": "Copy of ID",
+    "doc5": "Company Income",
+    "revreq": "Review Request",
+    "liqlink": "Liquidation Power of Attorney Link",
+    "cer": "Certificate of Completion",
+    "re": "Review",
+    "submissionSuccess": "Submission Success",
+    "submissionError": "Submission Error",
+
+    "404": "This Page Not Found",
+    "aboutus": "About Us",
+    "conditions": "Terms & Conditions",
+    "policy": "Privacy Policy",
+    "contact": "Contact Us",
+    "connect": "Connect with Us",
+    "wp": "WhatsApp Only",
+    "wp-ph": "WhatsApp & Phone",
+    "land": "Landline",
+    "whours": "Working Hours",
+
+
+    "VAT_Registration": {
+        "service": "VAT Registration",
+        "required_documents": [
+            "Copy of the license and Company Establishment Contract",
+            "Bank Account Details of the Company or its Manager",
+            "Copy of Passport for Partners and Manager",
+            "Copy of ID for Partners and Manager",
+            "Table showing company income",
+            "Mobile Number",
+            "If there is a username and password on the Federal Tax Authority website, it must be attached with the documents."
+        ],
+        "cost": "AED 315",
+        "terms_of_services": [
+            "The company or institution must achieve revenues of no less than AED 187,500 annually. Registration is required to clarify this to the Authority."
+        ],
+        "steps": [
+            "Documents are submitted for the Federal Tax Authority and are under review within 20 days from the date of the application submission.",
+            "Receipt and printing of the VAT registration certificate, username, and password."
+        ],
+        "working_days": "20 Working Days"
+    },
+
+    "Corporate_Tax_Registration": {
+        "service": "Corporate Tax Registration",
+        "required_documents": [
+            "Copy of the license and Company Establishment Contract",
+            "Bank Account Details of the Company or its Manager",
+            "Copy of Passport for Partners and Manager",
+            "Copy of ID for Partners and Manager",
+            "Table showing company income",
+            "Mobile Number",
+            "If there is a username and password on the Federal Tax Authority website, it must be attached with the documents."
+        ],
+        "cost": "AED 315",
+        "terms_of_services": "Achieving a net profit for the company or institution of not less than AED (375,000 to 1,000,000) annually, but registration is required for a named entity (company).",
+        "steps": [
+            "Documents are submitted and are under review within 10 days from the date of the application submission.",
+            "Receipt and printing of the VAT registration certificate, username, and password."
+        ],
+        "working_days": "10 Working Days"
+    },
+
+    "Settlement_of_Tax_Penalties": {
+        "service": "Settlement of Tax Penalties",
+        "required_documents": [
+            "Copy of the License",
+            "Company Establishment Contract",
+            "Mobile Number",
+            "If there is a username and password on the Federal Tax Authority website, it must be attached with the documents."
+        ],
+        "cost": "AED (2,000 + 20%)",
+        "terms_of_services": "Submit a letter explaining in detail the reasons that led to the imposition of the fine.",
+        "steps": [
+            "Documents are submitted and are under review within 10 days from the date of the application submission.",
+            "Upon obtaining approval to reduce the fine, 20% of the value of the fine that was reduced is paid to the customer."
+        ],
+        "notes": "A letter of guarantee or a guarantee check worth 20% is prepared and presented before the start of the transaction.",
+        "working_days": "10 Working Day"
+    },
+
+    "Tax_Number_Cancellation": {
+        "service": "Tax Number Cancellation",
+        "required_documents": [
+            "Copy of the License",
+            "Mobile Number",
+            "If there is a username and password on the Federal Tax Authority website, it must be attached with the documents."
+        ],
+        "cost": "AED1,500",
+        "terms_of_services": [
+            "A letter explaining the reason for canceling the tax number",
+            "The First Case: The total value of the returns submitted for the last 12 months is less than 187,500.",
+            "The Second Case: Cancellation of the commercial license."
+        ],
+        "steps": [
+            "Case 1: in the case of cancellation due to not reaching the tax limit of 5 months at the time of request.",
+            "Case 2: In the event of cancellation of the commercial license, the application takes 2 months."
+        ],
+        "working_days": "3 months for follow-up and completion of the procedure"
+    },
+
+    "Company_Liquidation": {
+        "service": "Company Liquidation",
+        "required_documents": [
+            "Copy of the license",
+            "Company Establishment Contract",
+            "Copy of passport and ID for all partners and the manager",
+            "The minutes of the general assembly meeting authenticated by a notary public",
+            "A letter from the company stating no objection to the liquidation, stamped and signed",
+            "What is proven from the passports, labor and workers that there are no residencies on the company or any labor problems",
+            "Mobile Number"
+        ],
+        "cost": "AED (2,000 or 4,000)",
+        "terms_of_services": "A power of attorney from a notary public to carry out liquidation procedures - stating that there are no residencies or violations at work, workers, passports, and cancellation of the establishment card.",       
+        "steps": "Documenting the minutes of the general assembly by a notary public.",
+        "notes": [
+            "The first case: All partners are present with the license. The fee is AED 2,000.",
+            "The second case: the absence of one of the partners and his failure to attend the liquidation fee, AED 4,000."
+        ],
+        "working_days": "The waiting period for objection is 35 days."
+    },
+    
+    "Submitting_Tax_Declarations": {
+        "service": "Submitting Tax Declarations",
+        "required_documents": [
+            "Authorization from the license owner or their representative",
+            "All invoices and accounts for the past 3 months",
+            "Mobile Number",
+            "If there is a username and password on the Federal Tax Authority website, it must be attached with the documents."
+        ],
+        "cost": "AED 315",
+        "terms_of_services": "All invoices and accounts for the past 3 months.",
+        "steps": "Review all income invoices and expense invoices during the 3-month period for submitting the value-added tax return.",
+        "notes": "The application is submitted and the tax return is printed.",
+        "working_days": "3 Working Day"
+    },
+
+    "Approved_Financial_Reports_for_Various_Entities": {
+        "service": "Approved Financial Reports for Various Entities",
+        "required_documents": [
+            "Copy of the license and official company documents",
+            "All documents related to the company’s accounts",
+            "Authorization letter",
+            "Mobile Number",
+            "If there is a username and password on the Federal Tax Authority website, it must be attached with the documents."
+        ],
+        "cost": "Depends on the revenue AED (1,500 - 10,000)",
+        "terms_of_services": "An authorization letter stating information about the required reports and the entity submitting them.",
+        "steps": "Reports completed within 5 days.",
+        "working_days": "5 Working Day"
+    },
+
+    "Home_Tax_Refund_for_Citizens": {
+        "service": "Home Tax Refund for Citizens",
+        "required_documents": [
+            "Copy of Passport",
+            "Copy of ID of the Owner",
+            "The Family Book",
+            "Bank account details of the owner",
+            "Copy of the land map",
+            "Building completion certificate and building license",
+            "Copy of purchase invoices for materials and construction contract",
+            "Mobile Number",
+            "If there is a username and password on the Federal Tax Authority website, it must be attached with the documents."
+        ],
+        "cost": "AED 2,000",
+        "terms_of_services": "Building completion certificate.",
+        "steps": "Review with the Federal Tax Authority.",
+        "working_days": "10 Working Day"
+    },
+
+    "Court_Announcements": {
+        "service": "Court Announcements",
+        "required_documents": [
+            "Copy of ID for Advertiser",
+            "Announcement Date",
+            "Please attach the advertisement form",
+            "Mobile Number"
+        ],
+        "cost": "AED 300",
+        "steps": [
+            "Documents are submitted and are under review within 1 day from the date of the application submission.",
+            "Receipt and printing of the Court Announcement."
+        ],
+        "working_days": "1 Working Day"
+    },
+
+    "Economic_Department_Announcements": {
+        "service": "Economic Department Announcements",
+        "required_documents": [
+            "Copy of ID for Advertiser",
+            "Announcement Date",
+            "Please attach the advertisement form",
+            "Mobile Number"
+        ],
+        "cost": "AED 700",
+        "steps": [
+            "Documents are submitted and are under review within 1 day from the date of the application submission.",
+            "Receipt and printing of the Economic Department Announcement."
+        ],
+        "working_days": "1 Working Day"
+    }
+}
