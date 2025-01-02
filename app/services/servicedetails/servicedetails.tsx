@@ -1,8 +1,10 @@
+'use client'
+
 import { useEffect, useContext } from "react";
-import { useRouter } from "next/router";
+import { useRouter } from 'next/navigation'
 import { useTranslation } from "react-i18next";
 import { authContext } from "@/context/authContext";
-import {Services} from '../services-data';
+import {Services} from '@/data/services-data';
 interface AuthContextType {
   token: string | null;
 }
@@ -20,6 +22,8 @@ interface Service {
   additional_fees?: string;
   contact_info?: string;
   notes?: string;
+  icon: React.ReactNode;
+
 }
 
 interface ServicesData {

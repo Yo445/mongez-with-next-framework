@@ -35,13 +35,17 @@ interface ServicesData {
   services: Service[];
 }
 
+
+console.log("services-data file loaded");
+
+
 // Create the ServicesData object with placeholders for services
 export const Services: ServicesData = {
   services: [
     { 
       id: "1", 
       icon: FcPaid, 
-      title: t("VAT_Registration.service"), 
+      title: "VAT_Registration.service", 
       link: "vat-registration", 
       required_docs: [
         "Copy of the license and Company Establishment Contract",
@@ -63,7 +67,7 @@ export const Services: ServicesData = {
     { 
       id: "2", 
       icon: FcDataRecovery, 
-      title: t("Corporate_Tax_Registration.service"), 
+      title: "Corporate_Tax_Registration.service", 
       link: "corporate-tax-registration",
       required_docs: [
         "Copy of the company's trade license",
